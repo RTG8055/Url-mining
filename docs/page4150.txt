@@ -1,0 +1,1 @@
+[u'https://www.google.co.uk/maps/@43.7678093,11.252687,90m/data=!3m1!1e3%20%0A']

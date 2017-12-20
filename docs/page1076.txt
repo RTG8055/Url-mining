@@ -1,0 +1,1 @@
+[u'https://www.google.com/maps/dir/Porto+Airport,+Maia,+Portugal/Quinta+de+Vodra,+Estrada+Municipal+(EM+522)+-+Vodra,+6270-554+Seia,+Portugal/@41.1610546,-8.125321,10z/data=!4m13!4m12!1m5!1m1!1s0xd246f64614a2bad:0x151a578a6d6039d1!2m2!1d-8.6785514!2d41.2421186!1m5!1m1!1s0xd3cd69c841ce605:0x8f6ee46d5252d844!2m2!1d-7.692638!2d40.431776?hl=en-GB%20%0A']

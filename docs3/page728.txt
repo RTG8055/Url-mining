@@ -1,0 +1,1 @@
+[' ', ' ', ' login ', ' forgot password ', ' join the community ', ' some text in the modal ']

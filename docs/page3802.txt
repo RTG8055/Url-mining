@@ -1,0 +1,1 @@
+[u'https://www.google.co.uk/maps/dir/Hotel+Pitti+Palace+al+Ponte+Vecchio,+Firenze,+Borgo+S.+Jacopo,+3,+50125+Firenze,+Italy/Siena,+Province+of+Siena,+Italy/@43.5637594,10.8379916,10z/data=!3m1!4b1!4m16!4m15!1m5!1m1!1s0x132a53fffc4ae37f:0x8a36ed1405761cb8!2m2!1d11.252517!2d43.767453!1m5!1m1!1s0x132a2cbf34bf5313:0x5d731212f12343e3!2m2!1d11.3307574!2d43.318809!2m1!5e2!3e3%20%0A']

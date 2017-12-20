@@ -1,0 +1,14 @@
+import re,datetime
+import dateutil.parser
+import csv
+
+with open('C:\\Users\\anitha101\\Desktop\\dates.csv','w') as dates:
+    for s in df['Time']:
+        #s="2008-09-03T20:56:35.450686Z"
+        d=str(datetime.datetime(*map(int, re.split('[^\d]', s)[:-2])))
+        print(d)
+        w=dateutil.parser.parse(d
+        formatstring = "%Y-%m-%d %H:%M:%S"
+        writer = csv.writer(dates)
+        t= w.strftime('%Y,%m,%d,%H,%M,%S')
+        writer.writerow(w.strftime('%Y,%m,%d,%H,%M,%S'))

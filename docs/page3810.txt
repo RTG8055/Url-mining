@@ -1,0 +1,1 @@
+[u'https://www.google.co.uk/maps/dir//Hotel+Pitti+Palace+al+Ponte+Vecchio,+Firenze,+Borgo+S.+Jacopo,+3,+50125+Firenze,+Italy/@43.7573325,11.2636857,15z/data=!4m15!1m6!3m5!1s0x0:0x8a36ed1405761cb8!2sHotel+Pitti+Palace+al+Ponte+Vecchio,+Firenze!8m2!3d43.7674524!4d11.2525159!4m7!1m0!1m5!1m1!1s0x132a53fffc4ae37f:0x8a36ed1405761cb8!2m2!1d11.252517!2d43.767453%20%0A']

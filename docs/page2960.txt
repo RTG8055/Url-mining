@@ -1,0 +1,1 @@
+[' ', ' ', u'\r\n\tExclusively Yours-Shopping\r\n']

@@ -1,0 +1,1 @@
+[' note many features on the paypal website require javascript and cookies ', ' ', ' email address is required ', ' that email format doesn t look right ', ' password is required ', ' copyright paypal all rights reserved ', ' checking your information ', ' just a second ']

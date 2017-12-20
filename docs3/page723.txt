@@ -1,0 +1,1 @@
+[' this process is automatic your browser will redirect to your requested content shortly ', ' please allow up to seconds ']

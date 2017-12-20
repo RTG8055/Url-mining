@@ -1,0 +1,1 @@
+[u'https://www.google.it/maps/dir/Firenze+Santa+Maria+Novella,+Florence,+Metropolitan+City+of+Florence/50022+Panzano+In+Chianti+Metropolitan+City+of+Florence/@43.6651304,11.146323,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x132a56a5110a5089:0x1958e826bdc6c329!2m2!1d11.2478839!2d43.7765223!1m5!1m1!1s0x132a4a90ae8306ff:0x424a5fcf97d4c12b!2m2!1d11.3154538!2d43.5442654!3e3%20%0A']

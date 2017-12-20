@@ -1,0 +1,12 @@
+select * from document;
+
+select * from termfrequency;
+
+update termfrequency set score = 2 where term = 'politics'
+update termfrequency set score = 4 where term = 'uk'
+
+
+
+select document_id, Group_Concat(term), SUM(score) as total_score from termfrequency where term in ('politics','britain') group by document_id order by total_score desc limit 100;
+
+

@@ -1,0 +1,1 @@
+[u'https://www.google.it/maps/dir//50022+Panzano+In+Chianti+Metropolitan+City+of+Florence/@43.5445511,11.3093108,16z/data=!4m16!1m7!3m6!1s0x132a4a90ae8306ff:0x424a5fcf97d4c12b!2s50022+Panzano+In+Chianti+Metropolitan+City+of+Florence!3b1!8m2!3d43.5442654!4d11.3154538!4m7!1m0!1m5!1m1!1s0x132a4a90ae8306ff:0x424a5fcf97d4c12b!2m2!1d11.3154538!2d43.5442654%20%0A']
